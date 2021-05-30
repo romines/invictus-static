@@ -1,0 +1,47 @@
+/* Jumbotron backgrounds: unique banner image for each page. */
+
+.home .jumbotron {
+	background: url(../images/invictus_woods_exterior.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.philosophy .jumbotron {
+	background: url(../images/invictus_woods_snow_drive.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.services .jumbotron {
+	background: url(../images/invictus_woods_bedroom.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.facility .jumbotron {
+	background: url(../images/invictus_woods_bedroom_2.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.admission .jumbotron {
+	background: url(../images/invictus_woods_bird_feeder.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.about .jumbotron {
+	background: url(../images/invictus_woods_sunflower.jpg) no-repeat center center;
+	background-size: cover;
+}
+.donations .jumbotron {
+	background: url(../images/invictus_woods_donations.jpg) no-repeat center center;
+	background-size: cover;
+}
+.resources .jumbotron {
+	background: url(../images/invictus_woods_bedroom_2_a.jpg) no-repeat center center;
+	background-size: cover;
+}
+.contact .jumbotron {
+	background: url(../images/invictus_woods_exterior.jpg) no-repeat center center;
+	background-size: cover;
+}
+.prospect .jumbotron {
+	background: url(../images/prospect_house.jpg) no-repeat center center;
+	background-size: cover;
+}
